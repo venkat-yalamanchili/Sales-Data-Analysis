@@ -28,8 +28,6 @@ To ensure optimal performance, scalability, and intuitive DAX calculations, the 
 
 -   **Top/Bottom 5 Products:** Dynamically isolates the top 5 and bottom 5 performing products across three critical business metrics: **Sales**, **Profit**, and **Quantity Sold**.
     
--   _Insight:_ This identifies core revenue drivers (e.g., Apple iPhone 14, MacBook Air) versus low-performing stock-keeping units (SKUs) requiring strategic clearance.
-    
 
 ### 2. Temporal Sales Trends
 
@@ -69,29 +67,27 @@ To ensure optimal performance, scalability, and intuitive DAX calculations, the 
 ## Dashboard Layout & Features
 
 ### Page 1: Executive Performance Overview
+<img width="1347" height="748" alt="Screenshot 2026-06-11 145746" src="https://github.com/user-attachments/assets/1e4f563f-5286-449a-9e0b-d6e907d59a6b" />
 
-Focuses on high-level operational health metrics, geographic sales distribution, macro time trends, and promotional discount breakdowns.
 
 -   _Key Visuals:_ Geospatial Sales Map, Total Orders KPI, Promotion Horizontal Bar Chart, Profit vs. Net Sales Scatter Plot, and the Macro Line Chart for temporal trends.
     
 
 ### Page 2: Product Performance Deep Dive
-
-A dedicated catalog assessment view displaying side-by-side performance hierarchies.
+<img width="1350" height="756" alt="Screenshot 2026-06-11 145755" src="https://github.com/user-attachments/assets/66e434c2-6fe7-4cc4-b0d7-a5bfcd3f3688" />
 
 -   _Key Visuals:_ Comparative purple and red bar charts highlighting the structural dichotomy between top revenue generators and underperforming products.
     
 
 ### Page 3: Advanced Period-Over-Period Comparison
-
-Empowers business analysts to run custom timeline scenarios.
+<img width="1344" height="757" alt="Screenshot 2026-06-11 145847" src="https://github.com/user-attachments/assets/450ad684-2aef-47af-8e84-b27d07335bea" />
 
 -   _Key Visuals:_ Dual interactive date sliders (`Date Filter 1` and `Date Filter 2`) side-by-side with multi-series bar charts comparing dynamic sales variations.
     
 
 ### Page 4: Order Ledger & Granular Filter Matrix
+<img width="1341" height="756" alt="Screenshot 2026-06-11 145959" src="https://github.com/user-attachments/assets/f4746887-182d-4aa6-856a-bd42ae01cde0" />
 
-A detailed raw-audit view built for operational drilling.
 
 -   _Key Visuals:_ Filter slices for Customer, Product, Promotion, and State feeding into a comprehensive tabular transaction matrix.
     
