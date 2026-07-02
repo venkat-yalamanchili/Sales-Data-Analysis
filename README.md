@@ -95,6 +95,7 @@ To ensure optimal performance, scalability, and intuitive DAX calculations, the 
 ## DAX & Modeling Techniques Used
 
 -   **Star Schema Optimization:** Modeled clean $1:\infty$ (one-to-many) unidirectional relationships to prevent ambiguity and optimize engine performance.
+![Alt text](assets/Screenshot%202026-06-11%20150057.png)
     
 -   **Disconnected Table Trick:** Implemented a secondary independent date table to handle dual-range comparison slicers without cross-filtering interference.
     
